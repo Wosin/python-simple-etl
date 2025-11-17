@@ -4,7 +4,7 @@ from contextlib import contextmanager
 from model import ThreatLevel, Report
 
 
-class SQLiteService:
+class ReportsRepository:
     """
     Service for managing SQLite database operations.
     

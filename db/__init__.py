@@ -1,4 +1,4 @@
-from db.sqlite_service import SQLiteService
+from db.sqlite_service import ReportsRepository
 
-__all__ = ["SQLiteService"]
+__all__ = ["ReportsRepository"]
 
